@@ -1,0 +1,14 @@
+{
+  "name": "hit-scam-endpoint",
+  "version": "1.0.0",
+  "description": "Script to hit scammer endpoints with random data",
+  "main": "script.js",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "https-proxy-agent": "^7.0.5"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@faker-js/faker": "^9.2.0"
+  }
+}
