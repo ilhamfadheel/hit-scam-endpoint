@@ -58,5 +58,5 @@ const startAttack = async (delay = 1000) => {
     }
 };
 
-// Start the attack with 1 second delay between requests
+// Start the attack with 2 second delay between requests
 startAttack(2000);
